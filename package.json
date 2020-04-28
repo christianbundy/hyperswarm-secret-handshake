@@ -1,0 +1,19 @@
+{
+  "name": "hyperswarm-shs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chloride": "^2.2.14",
+    "hyperswarm": "^2.13.0",
+    "pull-stream-to-stream": "^2.0.0",
+    "secret-handshake": "^1.1.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christian Bundy <christianbundy@fraction.io>",
+  "license": "AGPL-3.0"
+}
